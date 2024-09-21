@@ -2,10 +2,6 @@
     Version: 1.0
 /****************************************** */
 
-.parallax {
-    height: 300px; /* Example fixed height for testing */
-}
-
 @media (max-width: 1310px) {
     .macbookright {
         right: -25%;
