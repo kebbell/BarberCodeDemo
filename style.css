@@ -602,6 +602,9 @@ body.barber_version .sidebar-nav li a.active{
 	opacity: 0.5;
 }
 
+
+
+
 .first-section h2 {
     color: #ffffff;
     font-size: 68px;
@@ -2202,7 +2205,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
